@@ -19,7 +19,7 @@ function Main() {
             <a href="mailto:ahmed.ua368@gmail.com" target="_blank" rel="noreferrer"><EmailIcon/></a> 
           </div>
           <h1>Usama Ahmed</h1>
-          <p>Full-Stack React Native Developer | Mobile Apps for iOS & Android</p>
+          <p>Full-Stack React Native Developer | 4+ Year Commercial Experience | Cross-Platform Mobile Apps for iOS & Android</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/ahm3d19" target="_blank" rel="noreferrer"><GitHubIcon/></a>
