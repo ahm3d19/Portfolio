@@ -14,8 +14,9 @@ function Main() {
         </div>
         <div className="content">
           <div className="social_icons">
-            <a href="https://github.com/yujisatojr" target="_blank" rel="noreferrer"><GitHubIcon/></a>
-            <a href="https://www.linkedin.com/in/yujisato/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+          <a href="https://github.com/ahm3d19" target="_blank" rel="noreferrer"><GitHubIcon/></a>
+            <a href="https://www.linkedin.com/in/usama-ahmed-989303264" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
+            <a href="mailto:ahmed.ua368@gmail.com" target="_blank" rel="noreferrer"><EmailIcon/></a> 
           </div>
           <h1>Usama Ahmed</h1>
           <p>Full-Stack React Native Developer | Mobile Apps for iOS & Android</p>
