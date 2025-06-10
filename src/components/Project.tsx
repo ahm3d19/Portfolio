@@ -9,6 +9,7 @@ import mock07 from "../assets/images/mock07.png";
 import mock08 from "../assets/images/mock08.png";
 import mock09 from "../assets/images/mock09.png";
 import mock10 from "../assets/images/mock10.png";
+import Plantea from "../assets/images/Plantea-Project.png";
 import "../assets/styles/Project.scss";
 
 function Project() {
@@ -16,6 +17,38 @@ function Project() {
     <div className="projects-container" id="projects">
       <h1>Personal Projects</h1>
       <div className="projects-grid">
+        <div className="project">
+          <a
+            href="https://plantea-next.vercel.app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img
+              src={Plantea}
+              className="zoom"
+              alt="thumbnail"
+              height="auto"
+              width="100%"
+            />
+          </a>
+          <a
+            href="https://plantea-next.vercel.app"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <h2>Plantea (Next JS)</h2>
+          </a>
+          <p>
+            A high-performance Ecommerce web app built with Next JS / AWS, and
+            Redux, optimized for all devices with a lean size. It features
+            server-side rendering (SSR) for improved SEO and performance.
+            <br />
+            <br />
+            <strong>Tech Stack:</strong> Next JS, AWS, Redux, Tailwind CSS,
+            TypeScript, and more.
+          </p>
+        </div>
+        {/* Click N Buy */}
         <div className="project">
           <a
             href="https://github.com/ahm3d19/ClickNBuy_Expo"
@@ -29,7 +62,7 @@ function Project() {
             target="_blank"
             rel="noreferrer"
           >
-            <h2>Click N Buy</h2>
+            <h2>Click N Buy (Expo)</h2>
           </a>
           <p>
             A high-performance Ecommerce mobile app built with React Native /
@@ -50,7 +83,7 @@ function Project() {
             target="_blank"
             rel="noreferrer"
           >
-            <h2>StanBik Banking App</h2>
+            <h2>StanBik Banking App (Expo)</h2>
           </a>
           <p>
             A high-performance mobile banking app built with React Native, AWS,
@@ -70,7 +103,7 @@ function Project() {
             target="_blank"
             rel="noreferrer"
           >
-            <h2>Coffee</h2>
+            <h2>Coffee (Expo)</h2>
           </a>
           <p>
             Coffee is a high-performance coffee ordering app built with React

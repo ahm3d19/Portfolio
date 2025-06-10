@@ -6,7 +6,7 @@ import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
 const labelsFirst = [
-    "React",
+    "React JS",
     "React Native",
     "TypeScript / JavaScript",
     "HTML5, CSS3, SASS",
