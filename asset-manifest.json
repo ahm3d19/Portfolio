@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.a4d70ebb.css",
-    "main.js": "/Portfolio/static/js/main.c67c646f.js",
+    "main.js": "/Portfolio/static/js/main.55eba794.js",
     "static/js/453.ace21015.chunk.js": "/Portfolio/static/js/453.ace21015.chunk.js",
     "static/media/Plantea-Project.png": "/Portfolio/static/media/Plantea-Project.ba0a08f51cddec03d98d.png",
     "static/media/mock10.png": "/Portfolio/static/media/mock10.b2b410502d3ba93aeba2.png",
@@ -12,11 +12,11 @@
     "static/media/me.JPG": "/Portfolio/static/media/me.5d350cdf71728f06654b.JPG",
     "index.html": "/Portfolio/index.html",
     "main.a4d70ebb.css.map": "/Portfolio/static/css/main.a4d70ebb.css.map",
-    "main.c67c646f.js.map": "/Portfolio/static/js/main.c67c646f.js.map",
+    "main.55eba794.js.map": "/Portfolio/static/js/main.55eba794.js.map",
     "453.ace21015.chunk.js.map": "/Portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4d70ebb.css",
-    "static/js/main.c67c646f.js"
+    "static/js/main.55eba794.js"
   ]
 }
