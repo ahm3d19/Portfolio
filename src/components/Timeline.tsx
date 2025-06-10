@@ -24,7 +24,7 @@ function Timeline() {
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">
-              Senior React Native Developer
+              Senior Software Developer
             </h3>
             <h4 className="vertical-timeline-element-subtitle">InvoZone</h4>
             <p>

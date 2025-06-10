@@ -6,10 +6,12 @@ import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
 const labelsFirst = [
+    "Next JS",
     "React JS",
     "React Native",
     "TypeScript / JavaScript",
     "HTML5, CSS3, SASS",
+    "Vercel",
     "Tailwind / NativeWind",
     "Material UI",
     "Expo (EAS, OTA Updates)",
@@ -44,7 +46,7 @@ function Skills() {
             <div className="skills-grid">
                 <div className="skill">
                     <FontAwesomeIcon icon={faReact} size="3x"/>
-                    <h3>Full-Stack React Native Developer</h3>
+                    <h3>Full-Stack Software Developer</h3>
                     <p>I build high-performance mobile apps for iOS and Android using React Native, Expo, and AWS. My end-to-end expertise includes crafting responsive UIs (JavaScript, Redux), implementing scalable backends (AWS Cognito, DynamoDB), and streamlining deployments via CI/CD (Azure, GitHub Actions). I specialize in optimizing app performance while maintaining clean, reusable code across platforms.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>

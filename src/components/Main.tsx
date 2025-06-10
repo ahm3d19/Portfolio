@@ -39,14 +39,10 @@ function Main() {
             </a>
           </div>
           <h1>Usama Ahmed</h1>
-<<<<<<< HEAD
+
           <p>
-            4+ Year Commercial Experience | Full-Stack React Native Developer |
-            Mobile Apps for iOS & Android
+          4+ Year Commercial Experience | Senior Full Stack Developer  <br/> Next JS / React Js / React Native / Expo | Web + iOS + Android | CI/CD Pipelines | AWS | Azure App Center 
           </p>
-=======
-          <p>Full-Stack React Native Developer | 4+ Year Commercial Experience | Cross-Platform Mobile Apps for iOS & Android</p>
->>>>>>> ce85395904bed1ed7af411fea4a6bd04a64ae569
 
           <div className="mobile_social_icons">
             <a

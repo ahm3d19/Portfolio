@@ -67,7 +67,12 @@ function Project() {
           <p>
             A high-performance Ecommerce mobile app built with React Native /
             Expo, AWS, and Redux, optimized for all devices with a lean size
-            (75MB).
+            (75MB). It features server-side rendering (SSR) for improved SEO and
+            performance.
+            <br />
+            <br />
+            <strong>Tech Stack:</strong> React Native, Expo, AWS, Redux,
+            Tailwind CSS, TypeScript, and more.
           </p>
         </div>
         <div className="project">
@@ -87,7 +92,13 @@ function Project() {
           </a>
           <p>
             A high-performance mobile banking app built with React Native, AWS,
-            and Redux, optimized for all devices with a lean size (100MB).
+            and Redux, optimized for all devices with a lean size (100MB). It
+            features a sleek design and smooth user experience, ensuring fast
+            load times and responsiveness across all devices.
+            <br />
+            <br />
+            <strong>Tech Stack:</strong> React Native, Expo, AWS, Redux,
+            Tailwind CSS, TypeScript, and more.
           </p>
         </div>
         <div className="project">
@@ -108,7 +119,11 @@ function Project() {
           <p>
             Coffee is a high-performance coffee ordering app built with React
             Redux, optimized to maintain a constant 60 FPS on both the JS and UI
-            threads.
+            threads. It features a lean size of 50MB, ensuring fast load times
+            and smooth user experience across all devices. <br />
+            <br />
+            <strong>Tech Stack:</strong> React Native, Expo, Redux, Tailwind
+            CSS, TypeScript, and more.
           </p>
         </div>
       </div>
