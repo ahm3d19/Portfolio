@@ -46,8 +46,8 @@ function Skills() {
             <div className="skills-grid">
                 <div className="skill">
                     <FontAwesomeIcon icon={faReact} size="3x"/>
-                    <h3>Full-Stack Software Developer</h3>
-                    <p>I build high-performance mobile apps for iOS and Android using React Native, Expo, and AWS. My end-to-end expertise includes crafting responsive UIs (JavaScript, Redux), implementing scalable backends (AWS Cognito, DynamoDB), and streamlining deployments via CI/CD (Azure, GitHub Actions). I specialize in optimizing app performance while maintaining clean, reusable code across platforms.</p>
+                    <h3>Tech Stack</h3>
+                    <p>I build high-performance mobile & web apps for iOS + Android + Web using React Native, ReactJS, NextJS, Expo and AWS. My end-to-end expertise includes crafting responsive UIs (JavaScript, Redux), implementing scalable backends (AWS Cognito, DynamoDB), and streamlining deployments via CI/CD (Azure, GitHub Actions). I specialize in optimizing app performance while maintaining clean, reusable code across platforms.</p>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
                         {labelsFirst.map((label, index) => (

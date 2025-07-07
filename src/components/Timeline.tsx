@@ -19,12 +19,66 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: "white", color: "rgb(39, 40, 34)" }}
             contentArrowStyle={{ borderRight: "7px solid  white" }}
+            date="Jan 2024 - Present"
+            iconStyle={{ background: "#5000ca", color: "rgb(39, 40, 34)" }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h3 className="vertical-timeline-element-title">
+              Senior Full-Stack Engineer
+            </h3>
+            <h4 className="vertical-timeline-element-subtitle">Freelancer</h4>
+            <p>
+              <li className="timeline-item">
+                Delivered 5+ contract projects (React Native / Next.js) for
+                clients in healthcare and e-commerce sectors.
+              </li>
+              <li className="timeline-item">
+                Migrated legacy web apps to Next.js, improving performance by
+                35%
+              </li>
+              <li className="timeline-item">
+                Collaborating with Senior Team Members & Designers in creating
+                secure and reliable software solutions
+              </li>
+            </p>
+          </VerticalTimelineElement>
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: "white", color: "rgb(39, 40, 34)" }}
+            contentArrowStyle={{ borderRight: "7px solid  white" }}
+            date="Jan 2024 - Present"
+            iconStyle={{ background: "#5000ca", color: "rgb(39, 40, 34)" }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h3 className="vertical-timeline-element-title">
+              Team Lead Manager
+            </h3>
+            <h4 className="vertical-timeline-element-subtitle">WingStop Inc</h4>
+            <p>
+              <li className="timeline-item">
+                Led 20+ employees, improving service standards and reducing
+                operational errors by 15%
+              </li>
+              <li className="timeline-item">
+                Optimized costs by 20% through waste reduction strategies and
+                inventory management
+              </li>
+              <li className="timeline-item">
+                Boosted customer satisfaction scores (Google/NPS) by
+                implementing complaint resolution protocols
+              </li>
+            </p>
+          </VerticalTimelineElement>
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: "white", color: "rgb(39, 40, 34)" }}
+            contentArrowStyle={{ borderRight: "7px solid  white" }}
             date="Nov 2022 - Dec 2023"
             iconStyle={{ background: "#5000ca", color: "rgb(39, 40, 34)" }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">
-              Senior Software Developer
+              Senior Full-Stack Engineer
             </h3>
             <h4 className="vertical-timeline-element-subtitle">InvoZone</h4>
             <p>
@@ -33,7 +87,7 @@ function Timeline() {
                 ensuring High Performance & Responsiveness with AWS services
               </li>
               <li className="timeline-item">
-                Built 20+ Apps with React Native & Expo, reducing build times by
+                Built 10+ Apps with React Native & Expo, reducing build times by
                 30% using EAS
               </li>
               <li className="timeline-item">
